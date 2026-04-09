@@ -1,0 +1,11 @@
+p {
+    color: blue;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+
+}
+.special-text {
+    color: red;
+    font-weight: bold;
+}
