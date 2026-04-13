@@ -1,6 +1,6 @@
 p {
-    color: blue;
-    background-color: yellow;
+    color: #B24C6D;
+    
     font-size: 20px;
     font-family: Arial, sans-serif;
 
@@ -8,4 +8,19 @@ p {
 .special-text {
     color: red;
     font-weight: bold;
+}
+
+body {
+    background-color: #D6FFDA;
+}
+
+h1{
+    color: #B24C6D;
+}
+.block{
+    display: block;
+}
+
+h2{
+    color: #B24C6D;
 }
